@@ -1,1 +1,3 @@
 В demo человечек без пуговок
+Merge remote-tracking branch 'origin/hat'
+add hometask.txt
